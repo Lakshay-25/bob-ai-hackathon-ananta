@@ -490,54 +490,43 @@ def main():
         
     render_header()
     
-    # Sidebar — Data Upload & User Info
-    with st.sidebar:
-        st.markdown(f"### 👤 Logged in as: **{st.session_state.get('role', 'SHO')}**")
-        if st.button("Logout"):
-            st.session_state['logged_in'] = False
-            st.rerun()
-            
-        st.markdown("---")
-        st.markdown("### 📁 Data Source")
+    # Data Upload & User Info (Moved from Sidebar to Main View)
+    df = None
+    with st.expander("⚙️ Application Settings & Data Source", expanded=False):
+        col_settings_1, col_settings_2 = st.columns([1, 3])
         
-        upload_option = st.radio(
-            "Choose data source:",
-            ["Use demo dataset", "Upload CSV file"],
-            index=0
-        )
-        
-        df = None
-        
-        if upload_option == "Upload CSV file":
-            uploaded = st.file_uploader(
-                "Upload crime data CSV",
-                type=['csv'],
-                help="CSV with columns: date, time, day_of_week, area, crime_type, nearby_event"
+        with col_settings_1:
+            st.markdown(f"**👤 Profile:** {st.session_state.get('role', 'SHO')}")
+            if st.button("Logout"):
+                st.session_state['logged_in'] = False
+                st.rerun()
+                
+        with col_settings_2:
+            upload_option = st.radio(
+                "📁 Choose Data Source:",
+                ["Use demo dataset", "Upload CSV file"],
+                index=0,
+                horizontal=True
             )
-            if uploaded:
-                try:
-                    df = pd.read_csv(uploaded)
-                    st.success(f"✅ Loaded {len(df)} records")
-                except Exception as e:
-                    st.error(f"Error reading CSV: {e}")
-        else:
-            df = load_default_data()
-            if df is not None:
-                st.success(f"✅ Demo dataset: {len(df)} records")
+            
+            if upload_option == "Upload CSV file":
+                uploaded = st.file_uploader(
+                    "Upload crime data CSV",
+                    type=['csv'],
+                    help="CSV with columns: date, time, day_of_week, area, crime_type, nearby_event"
+                )
+                if uploaded:
+                    try:
+                        df = pd.read_csv(uploaded)
+                        st.success(f"✅ Successfully loaded {len(df)} incident records")
+                    except Exception as e:
+                        st.error(f"Error reading CSV: {e}")
             else:
-                st.warning("Demo dataset not found. Please upload a CSV.")
-        
-        st.markdown("---")
-        st.markdown("""
-        <div style="font-size: 0.75rem; color: #888;">
-        <b>Drishti v1.0</b><br>
-        Team Ananta<br>
-        IBM Bob AI Hackathon<br>
-        <br>
-        ⚠️ All data is synthetic.<br>
-        For demonstration only.
-        </div>
-        """, unsafe_allow_html=True)
+                df = load_default_data()
+                if df is not None:
+                    st.success(f"✅ Demo dataset active: {len(df)} synthetic records loaded")
+                else:
+                    st.warning("Demo dataset not found. Please upload a CSV.")
     
     # Main content — only render if data is loaded
     if df is None:
