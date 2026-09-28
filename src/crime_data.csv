@@ -1,0 +1,1151 @@
+date,time,day_of_week,area,crime_type,nearby_event
+2026-01-01,23:00,Thursday,Area-27,Theft,None
+2026-01-01,19:30,Thursday,Area-21,Burglary,Festival
+2026-01-01,19:15,Thursday,Area-18,Assault,Festival
+2026-01-02,15:30,Friday,Area-03,Burglary,Political Rally
+2026-01-02,18:30,Friday,Area-07,Theft,Political Rally
+2026-01-02,21:00,Friday,Area-15,Theft,Political Rally
+2026-01-02,23:30,Friday,Area-18,Robbery,Political Rally
+2026-01-03,21:30,Saturday,Area-22,Vandalism,None
+2026-01-03,13:30,Saturday,Area-16,Theft,None
+2026-01-03,07:15,Saturday,Area-22,Robbery,Cricket Match
+2026-01-03,19:00,Saturday,Area-18,Robbery,Cricket Match
+2026-01-03,19:15,Saturday,Area-18,Theft,Cricket Match
+2026-01-03,19:45,Saturday,Area-09,Assault,None
+2026-01-03,23:30,Saturday,Area-04,Assault,None
+2026-01-04,22:30,Sunday,Area-22,Theft,Festival
+2026-01-04,20:15,Sunday,Area-14,Theft,Political Rally
+2026-01-04,21:45,Sunday,Area-03,Vandalism,None
+2026-01-04,22:00,Sunday,Area-03,Burglary,None
+2026-01-04,19:30,Sunday,Area-05,Assault,Political Rally
+2026-01-04,22:30,Sunday,Area-27,Robbery,None
+2026-01-05,09:30,Monday,Area-12,Assault,Cricket Match
+2026-01-05,19:45,Monday,Area-05,Theft,None
+2026-01-05,22:00,Monday,Area-19,Theft,None
+2026-01-05,09:45,Monday,Area-07,Robbery,None
+2026-01-05,09:00,Monday,Area-27,Robbery,None
+2026-01-05,21:45,Monday,Area-12,Vandalism,None
+2026-01-05,11:45,Monday,Area-07,Theft,None
+2026-01-06,22:45,Tuesday,Area-03,Theft,Political Rally
+2026-01-06,19:15,Tuesday,Area-07,Theft,None
+2026-01-06,20:15,Tuesday,Area-21,Robbery,Cricket Match
+2026-01-06,21:00,Tuesday,Area-03,Vandalism,Festival
+2026-01-06,20:30,Tuesday,Area-22,Assault,Cricket Match
+2026-01-06,20:45,Tuesday,Area-03,Assault,None
+2026-01-07,19:00,Wednesday,Area-11,Chain Snatching,Cricket Match
+2026-01-07,22:45,Wednesday,Area-10,Burglary,None
+2026-01-08,22:15,Thursday,Area-27,Vandalism,None
+2026-01-08,11:00,Thursday,Area-05,Assault,Market Day
+2026-01-08,14:00,Thursday,Area-03,Theft,Market Day
+2026-01-08,23:45,Thursday,Area-12,Burglary,None
+2026-01-08,12:30,Thursday,Area-29,Burglary,None
+2026-01-08,22:30,Thursday,Area-25,Assault,None
+2026-01-08,11:30,Thursday,Area-27,Theft,None
+2026-01-09,11:30,Friday,Area-07,Burglary,None
+2026-01-09,10:15,Friday,Area-27,Burglary,Political Rally
+2026-01-09,18:45,Friday,Area-22,Theft,None
+2026-01-09,20:30,Friday,Area-07,Theft,Cricket Match
+2026-01-09,23:15,Friday,Area-11,Theft,Cricket Match
+2026-01-09,18:45,Friday,Area-07,Burglary,Political Rally
+2026-01-09,15:15,Friday,Area-03,Vandalism,Festival
+2026-01-09,13:45,Friday,Area-03,Assault,Market Day
+2026-01-09,16:15,Friday,Area-22,Theft,None
+2026-01-09,23:15,Friday,Area-03,Chain Snatching,None
+2026-01-09,19:45,Friday,Area-02,Burglary,Cricket Match
+2026-01-10,09:00,Saturday,Area-27,Theft,Festival
+2026-01-10,22:00,Saturday,Area-12,Assault,None
+2026-01-10,21:45,Saturday,Area-09,Robbery,Political Rally
+2026-01-10,23:30,Saturday,Area-03,Burglary,Market Day
+2026-01-10,21:00,Saturday,Area-03,Robbery,Cricket Match
+2026-01-10,23:45,Saturday,Area-18,Theft,Market Day
+2026-01-10,21:30,Saturday,Area-22,Burglary,Cricket Match
+2026-01-10,20:15,Saturday,Area-18,Burglary,Cricket Match
+2026-01-10,14:45,Saturday,Area-18,Assault,Political Rally
+2026-01-11,22:45,Sunday,Area-27,Theft,None
+2026-01-11,11:45,Sunday,Area-12,Assault,Market Day
+2026-01-11,21:45,Sunday,Area-22,Robbery,Political Rally
+2026-01-11,22:30,Sunday,Area-07,Theft,Market Day
+2026-01-11,22:30,Sunday,Area-12,Burglary,Cricket Match
+2026-01-11,23:30,Sunday,Area-12,Burglary,Market Day
+2026-01-11,14:00,Sunday,Area-03,Burglary,None
+2026-01-11,23:30,Sunday,Area-11,Vandalism,Festival
+2026-01-12,21:45,Monday,Area-03,Theft,Cricket Match
+2026-01-12,20:45,Monday,Area-18,Burglary,Festival
+2026-01-12,19:45,Monday,Area-22,Assault,None
+2026-01-12,06:30,Monday,Area-08,Robbery,Festival
+2026-01-12,10:30,Monday,Area-03,Burglary,Cricket Match
+2026-01-12,19:00,Monday,Area-27,Chain Snatching,Political Rally
+2026-01-12,23:30,Monday,Area-12,Burglary,None
+2026-01-12,08:15,Monday,Area-03,Assault,Political Rally
+2026-01-13,21:00,Tuesday,Area-18,Burglary,Market Day
+2026-01-13,11:15,Tuesday,Area-12,Theft,Cricket Match
+2026-01-13,19:15,Tuesday,Area-22,Assault,None
+2026-01-13,08:00,Tuesday,Area-22,Burglary,Festival
+2026-01-13,20:00,Tuesday,Area-18,Chain Snatching,None
+2026-01-13,13:15,Tuesday,Area-30,Vandalism,Cricket Match
+2026-01-13,13:00,Tuesday,Area-27,Theft,Political Rally
+2026-01-13,06:15,Tuesday,Area-22,Assault,None
+2026-01-14,19:30,Wednesday,Area-12,Theft,Market Day
+2026-01-14,21:00,Wednesday,Area-07,Burglary,Political Rally
+2026-01-14,21:30,Wednesday,Area-03,Vandalism,None
+2026-01-14,21:30,Wednesday,Area-10,Robbery,Political Rally
+2026-01-14,19:30,Wednesday,Area-22,Burglary,Festival
+2026-01-14,06:15,Wednesday,Area-25,Burglary,Political Rally
+2026-01-15,19:00,Thursday,Area-27,Burglary,Political Rally
+2026-01-15,21:15,Thursday,Area-18,Theft,Political Rally
+2026-01-15,12:30,Thursday,Area-22,Theft,None
+2026-01-16,21:30,Friday,Area-22,Robbery,None
+2026-01-16,08:00,Friday,Area-22,Vandalism,None
+2026-01-16,19:30,Friday,Area-19,Vandalism,None
+2026-01-16,19:15,Friday,Area-13,Theft,None
+2026-01-16,19:45,Friday,Area-12,Assault,Cricket Match
+2026-01-16,19:30,Friday,Area-11,Burglary,Festival
+2026-01-16,21:45,Friday,Area-17,Robbery,None
+2026-01-17,21:15,Saturday,Area-24,Vandalism,None
+2026-01-17,18:00,Saturday,Area-03,Chain Snatching,Festival
+2026-01-17,20:00,Saturday,Area-15,Assault,Market Day
+2026-01-17,22:30,Saturday,Area-14,Theft,Cricket Match
+2026-01-18,20:15,Sunday,Area-18,Burglary,Market Day
+2026-01-18,22:30,Sunday,Area-12,Robbery,Cricket Match
+2026-01-18,12:30,Sunday,Area-03,Theft,None
+2026-01-19,20:00,Monday,Area-03,Chain Snatching,Festival
+2026-01-19,22:15,Monday,Area-18,Theft,Political Rally
+2026-01-19,10:45,Monday,Area-12,Assault,Political Rally
+2026-01-19,20:00,Monday,Area-11,Assault,None
+2026-01-19,19:45,Monday,Area-20,Robbery,None
+2026-01-19,21:45,Monday,Area-07,Vandalism,None
+2026-01-19,20:15,Monday,Area-12,Assault,Political Rally
+2026-01-20,19:30,Tuesday,Area-27,Vandalism,None
+2026-01-20,19:45,Tuesday,Area-28,Assault,None
+2026-01-20,23:45,Tuesday,Area-28,Burglary,Cricket Match
+2026-01-20,23:00,Tuesday,Area-22,Chain Snatching,None
+2026-01-20,18:45,Tuesday,Area-17,Theft,Political Rally
+2026-01-21,22:15,Wednesday,Area-18,Theft,Cricket Match
+2026-01-21,22:45,Wednesday,Area-03,Burglary,None
+2026-01-21,20:45,Wednesday,Area-26,Chain Snatching,None
+2026-01-21,21:30,Wednesday,Area-07,Robbery,Festival
+2026-01-21,21:15,Wednesday,Area-27,Assault,None
+2026-01-21,23:00,Wednesday,Area-21,Vandalism,Political Rally
+2026-01-22,22:15,Thursday,Area-07,Theft,None
+2026-01-22,23:15,Thursday,Area-03,Vandalism,None
+2026-01-22,17:45,Thursday,Area-07,Assault,Festival
+2026-01-22,13:15,Thursday,Area-22,Theft,Festival
+2026-01-22,18:45,Thursday,Area-18,Robbery,Political Rally
+2026-01-22,17:00,Thursday,Area-10,Theft,None
+2026-01-22,17:30,Thursday,Area-27,Theft,Cricket Match
+2026-01-23,19:00,Friday,Area-07,Theft,Festival
+2026-01-23,20:15,Friday,Area-02,Robbery,Festival
+2026-01-23,23:00,Friday,Area-07,Assault,Festival
+2026-01-23,23:15,Friday,Area-05,Vandalism,None
+2026-01-23,22:15,Friday,Area-22,Vandalism,None
+2026-01-23,23:45,Friday,Area-03,Robbery,None
+2026-01-23,22:15,Friday,Area-27,Theft,Cricket Match
+2026-01-23,21:45,Friday,Area-18,Vandalism,Political Rally
+2026-01-24,23:15,Saturday,Area-20,Assault,Market Day
+2026-01-24,23:15,Saturday,Area-04,Burglary,None
+2026-01-24,15:00,Saturday,Area-27,Chain Snatching,None
+2026-01-24,22:30,Saturday,Area-13,Theft,Political Rally
+2026-01-24,18:00,Saturday,Area-07,Assault,Political Rally
+2026-01-24,23:00,Saturday,Area-27,Theft,None
+2026-01-24,19:30,Saturday,Area-12,Theft,None
+2026-01-24,07:00,Saturday,Area-27,Chain Snatching,Political Rally
+2026-01-24,16:15,Saturday,Area-12,Robbery,Political Rally
+2026-01-24,22:45,Saturday,Area-12,Chain Snatching,Political Rally
+2026-01-24,13:15,Saturday,Area-15,Robbery,None
+2026-01-24,22:30,Saturday,Area-18,Assault,Market Day
+2026-01-25,21:30,Sunday,Area-06,Theft,Market Day
+2026-01-25,06:15,Sunday,Area-12,Robbery,Political Rally
+2026-01-25,19:45,Sunday,Area-12,Robbery,Festival
+2026-01-25,19:45,Sunday,Area-18,Robbery,None
+2026-01-26,20:15,Monday,Area-21,Theft,Political Rally
+2026-01-26,13:15,Monday,Area-23,Assault,None
+2026-01-26,20:15,Monday,Area-18,Robbery,None
+2026-01-27,21:45,Tuesday,Area-22,Burglary,None
+2026-01-27,23:30,Tuesday,Area-07,Assault,Cricket Match
+2026-01-27,22:15,Tuesday,Area-07,Vandalism,Market Day
+2026-01-27,22:45,Tuesday,Area-19,Burglary,None
+2026-01-27,23:45,Tuesday,Area-22,Theft,Festival
+2026-01-27,06:30,Tuesday,Area-27,Robbery,None
+2026-01-27,20:30,Tuesday,Area-03,Burglary,Political Rally
+2026-01-27,19:15,Tuesday,Area-27,Theft,Political Rally
+2026-01-28,22:15,Wednesday,Area-07,Burglary,None
+2026-01-28,22:45,Wednesday,Area-30,Chain Snatching,None
+2026-01-28,15:15,Wednesday,Area-22,Vandalism,None
+2026-01-28,23:15,Wednesday,Area-12,Burglary,Festival
+2026-01-28,19:45,Wednesday,Area-18,Assault,None
+2026-01-28,22:45,Wednesday,Area-03,Robbery,None
+2026-01-28,07:00,Wednesday,Area-20,Robbery,None
+2026-01-29,20:15,Thursday,Area-27,Vandalism,None
+2026-01-29,19:00,Thursday,Area-22,Assault,None
+2026-01-29,23:00,Thursday,Area-07,Chain Snatching,None
+2026-01-29,23:30,Thursday,Area-27,Theft,None
+2026-01-29,20:15,Thursday,Area-19,Assault,None
+2026-01-30,21:45,Friday,Area-18,Theft,Festival
+2026-01-31,09:30,Saturday,Area-12,Assault,None
+2026-01-31,20:15,Saturday,Area-22,Vandalism,None
+2026-01-31,20:45,Saturday,Area-03,Burglary,Political Rally
+2026-02-01,19:30,Sunday,Area-07,Chain Snatching,Festival
+2026-02-01,08:15,Sunday,Area-07,Assault,None
+2026-02-01,11:30,Sunday,Area-30,Burglary,None
+2026-02-01,20:00,Sunday,Area-07,Assault,Market Day
+2026-02-01,22:30,Sunday,Area-07,Assault,None
+2026-02-01,21:00,Sunday,Area-27,Robbery,Cricket Match
+2026-02-01,12:30,Sunday,Area-27,Assault,None
+2026-02-01,22:00,Sunday,Area-03,Vandalism,Market Day
+2026-02-02,15:45,Monday,Area-03,Vandalism,None
+2026-02-02,08:30,Monday,Area-18,Robbery,Festival
+2026-02-03,21:15,Tuesday,Area-16,Vandalism,Cricket Match
+2026-02-03,22:45,Tuesday,Area-21,Burglary,None
+2026-02-03,14:15,Tuesday,Area-03,Burglary,None
+2026-02-03,12:30,Tuesday,Area-24,Assault,None
+2026-02-03,19:00,Tuesday,Area-17,Assault,None
+2026-02-04,22:45,Wednesday,Area-27,Chain Snatching,None
+2026-02-04,19:45,Wednesday,Area-01,Vandalism,Political Rally
+2026-02-04,14:00,Wednesday,Area-12,Theft,Political Rally
+2026-02-04,20:00,Wednesday,Area-27,Vandalism,None
+2026-02-04,20:15,Wednesday,Area-10,Vandalism,None
+2026-02-05,15:15,Thursday,Area-07,Burglary,None
+2026-02-05,21:30,Thursday,Area-22,Theft,Festival
+2026-02-05,22:15,Thursday,Area-08,Assault,None
+2026-02-05,16:45,Thursday,Area-18,Theft,Market Day
+2026-02-05,11:45,Thursday,Area-18,Theft,None
+2026-02-05,09:30,Thursday,Area-09,Vandalism,Market Day
+2026-02-06,19:45,Friday,Area-27,Burglary,Market Day
+2026-02-06,21:15,Friday,Area-07,Theft,None
+2026-02-06,18:30,Friday,Area-17,Burglary,Market Day
+2026-02-07,09:45,Saturday,Area-03,Vandalism,Festival
+2026-02-07,20:00,Saturday,Area-27,Theft,Market Day
+2026-02-07,21:00,Saturday,Area-22,Robbery,None
+2026-02-07,15:00,Saturday,Area-07,Burglary,None
+2026-02-07,20:45,Saturday,Area-03,Chain Snatching,Political Rally
+2026-02-08,22:00,Sunday,Area-27,Assault,Market Day
+2026-02-08,23:00,Sunday,Area-03,Theft,Market Day
+2026-02-08,09:45,Sunday,Area-22,Theft,Market Day
+2026-02-08,23:45,Sunday,Area-18,Burglary,None
+2026-02-08,06:15,Sunday,Area-08,Burglary,Market Day
+2026-02-08,07:15,Sunday,Area-22,Theft,None
+2026-02-08,19:30,Sunday,Area-04,Robbery,None
+2026-02-09,21:15,Monday,Area-22,Assault,None
+2026-02-09,06:45,Monday,Area-27,Robbery,None
+2026-02-09,23:45,Monday,Area-22,Robbery,None
+2026-02-09,16:45,Monday,Area-04,Robbery,Cricket Match
+2026-02-09,20:30,Monday,Area-03,Theft,Cricket Match
+2026-02-09,23:00,Monday,Area-03,Assault,None
+2026-02-10,20:00,Tuesday,Area-22,Robbery,None
+2026-02-10,20:30,Tuesday,Area-11,Theft,Festival
+2026-02-10,13:30,Tuesday,Area-04,Theft,Cricket Match
+2026-02-10,23:00,Tuesday,Area-27,Assault,None
+2026-02-10,13:30,Tuesday,Area-14,Theft,Cricket Match
+2026-02-10,09:45,Tuesday,Area-18,Robbery,None
+2026-02-10,11:45,Tuesday,Area-12,Burglary,None
+2026-02-11,06:45,Wednesday,Area-06,Burglary,Political Rally
+2026-02-11,15:15,Wednesday,Area-03,Burglary,Market Day
+2026-02-11,22:00,Wednesday,Area-26,Theft,Market Day
+2026-02-11,21:30,Wednesday,Area-03,Chain Snatching,None
+2026-02-11,19:15,Wednesday,Area-27,Burglary,Festival
+2026-02-11,16:15,Wednesday,Area-12,Assault,None
+2026-02-11,19:15,Wednesday,Area-07,Robbery,None
+2026-02-11,20:00,Wednesday,Area-18,Theft,Festival
+2026-02-12,22:30,Thursday,Area-02,Chain Snatching,Festival
+2026-02-12,19:45,Thursday,Area-26,Theft,Festival
+2026-02-12,10:15,Thursday,Area-06,Chain Snatching,None
+2026-02-12,23:45,Thursday,Area-30,Vandalism,None
+2026-02-12,22:00,Thursday,Area-18,Theft,None
+2026-02-13,23:00,Friday,Area-22,Robbery,None
+2026-02-13,19:15,Friday,Area-18,Chain Snatching,Political Rally
+2026-02-13,11:00,Friday,Area-24,Vandalism,Market Day
+2026-02-13,19:15,Friday,Area-07,Burglary,None
+2026-02-13,08:00,Friday,Area-12,Burglary,None
+2026-02-13,22:15,Friday,Area-27,Vandalism,Market Day
+2026-02-13,12:30,Friday,Area-12,Robbery,Political Rally
+2026-02-14,11:30,Saturday,Area-22,Vandalism,Political Rally
+2026-02-14,06:45,Saturday,Area-07,Assault,Cricket Match
+2026-02-14,22:45,Saturday,Area-06,Theft,Cricket Match
+2026-02-14,20:15,Saturday,Area-23,Theft,Cricket Match
+2026-02-14,23:30,Saturday,Area-03,Burglary,Cricket Match
+2026-02-15,19:45,Sunday,Area-18,Burglary,None
+2026-02-15,20:15,Sunday,Area-03,Robbery,Cricket Match
+2026-02-15,19:45,Sunday,Area-27,Vandalism,Political Rally
+2026-02-15,20:45,Sunday,Area-19,Chain Snatching,Political Rally
+2026-02-15,20:30,Sunday,Area-07,Chain Snatching,Festival
+2026-02-15,23:45,Sunday,Area-15,Robbery,None
+2026-02-15,13:00,Sunday,Area-27,Theft,None
+2026-02-15,23:45,Sunday,Area-09,Burglary,Festival
+2026-02-15,23:45,Sunday,Area-21,Assault,Market Day
+2026-02-15,22:15,Sunday,Area-28,Burglary,Market Day
+2026-02-16,23:00,Monday,Area-18,Vandalism,None
+2026-02-16,15:15,Monday,Area-30,Robbery,None
+2026-02-16,22:45,Monday,Area-12,Theft,Political Rally
+2026-02-17,21:30,Tuesday,Area-27,Theft,Political Rally
+2026-02-17,23:30,Tuesday,Area-07,Burglary,Political Rally
+2026-02-17,21:30,Tuesday,Area-01,Burglary,Cricket Match
+2026-02-17,20:15,Tuesday,Area-16,Theft,Festival
+2026-02-17,21:45,Tuesday,Area-07,Robbery,Market Day
+2026-02-18,10:45,Wednesday,Area-27,Burglary,Festival
+2026-02-18,18:45,Wednesday,Area-07,Assault,None
+2026-02-18,23:15,Wednesday,Area-07,Burglary,None
+2026-02-18,22:15,Wednesday,Area-12,Burglary,Political Rally
+2026-02-18,13:30,Wednesday,Area-29,Theft,Political Rally
+2026-02-18,18:30,Wednesday,Area-18,Burglary,Festival
+2026-02-18,23:15,Wednesday,Area-27,Assault,Political Rally
+2026-02-18,18:45,Wednesday,Area-04,Vandalism,None
+2026-02-19,17:30,Thursday,Area-01,Assault,Political Rally
+2026-02-19,20:15,Thursday,Area-22,Chain Snatching,Market Day
+2026-02-20,09:15,Friday,Area-18,Theft,None
+2026-02-20,19:15,Friday,Area-27,Burglary,Cricket Match
+2026-02-20,19:00,Friday,Area-12,Burglary,Market Day
+2026-02-20,21:00,Friday,Area-18,Robbery,Festival
+2026-02-20,21:45,Friday,Area-03,Assault,None
+2026-02-21,23:45,Saturday,Area-05,Theft,Political Rally
+2026-02-21,22:15,Saturday,Area-15,Theft,Cricket Match
+2026-02-21,23:30,Saturday,Area-21,Burglary,None
+2026-02-21,21:15,Saturday,Area-07,Robbery,Political Rally
+2026-02-21,14:15,Saturday,Area-03,Theft,Political Rally
+2026-02-21,16:30,Saturday,Area-07,Theft,Cricket Match
+2026-02-21,21:15,Saturday,Area-30,Vandalism,None
+2026-02-22,20:15,Sunday,Area-05,Robbery,Cricket Match
+2026-02-22,22:00,Sunday,Area-02,Robbery,Cricket Match
+2026-02-22,23:15,Sunday,Area-12,Assault,Festival
+2026-02-22,22:45,Sunday,Area-12,Burglary,None
+2026-02-22,20:45,Sunday,Area-27,Theft,None
+2026-02-22,23:30,Sunday,Area-14,Assault,Market Day
+2026-02-23,23:00,Monday,Area-20,Burglary,None
+2026-02-23,07:45,Monday,Area-12,Assault,None
+2026-02-24,21:00,Tuesday,Area-26,Assault,Cricket Match
+2026-02-24,09:30,Tuesday,Area-25,Burglary,Market Day
+2026-02-24,16:45,Tuesday,Area-13,Theft,None
+2026-02-24,21:00,Tuesday,Area-18,Burglary,Cricket Match
+2026-02-25,23:00,Wednesday,Area-20,Theft,Market Day
+2026-02-25,21:30,Wednesday,Area-27,Vandalism,Market Day
+2026-02-25,19:45,Wednesday,Area-03,Burglary,Festival
+2026-02-26,23:15,Thursday,Area-20,Robbery,Cricket Match
+2026-02-26,23:15,Thursday,Area-12,Robbery,Festival
+2026-02-26,21:00,Thursday,Area-18,Burglary,None
+2026-02-26,21:00,Thursday,Area-27,Theft,None
+2026-02-26,21:15,Thursday,Area-12,Assault,Political Rally
+2026-02-27,23:30,Friday,Area-18,Assault,Political Rally
+2026-02-27,11:15,Friday,Area-23,Assault,None
+2026-02-27,06:00,Friday,Area-25,Chain Snatching,Market Day
+2026-02-27,15:00,Friday,Area-03,Robbery,Political Rally
+2026-02-27,21:45,Friday,Area-02,Theft,None
+2026-02-27,19:45,Friday,Area-12,Robbery,None
+2026-02-27,20:00,Friday,Area-30,Theft,None
+2026-02-27,21:45,Friday,Area-03,Theft,None
+2026-02-27,10:15,Friday,Area-19,Burglary,Festival
+2026-02-27,21:00,Friday,Area-07,Chain Snatching,Political Rally
+2026-02-28,22:45,Saturday,Area-18,Chain Snatching,Market Day
+2026-02-28,19:15,Saturday,Area-01,Theft,Cricket Match
+2026-02-28,20:45,Saturday,Area-11,Vandalism,None
+2026-02-28,19:15,Saturday,Area-01,Theft,None
+2026-02-28,20:45,Saturday,Area-22,Vandalism,Political Rally
+2026-02-28,21:00,Saturday,Area-26,Theft,Market Day
+2026-03-01,20:30,Sunday,Area-12,Burglary,None
+2026-03-01,23:30,Sunday,Area-24,Theft,Cricket Match
+2026-03-01,18:45,Sunday,Area-12,Vandalism,Political Rally
+2026-03-01,23:00,Sunday,Area-07,Theft,Political Rally
+2026-03-01,22:15,Sunday,Area-12,Robbery,Market Day
+2026-03-02,23:15,Monday,Area-12,Assault,None
+2026-03-02,12:30,Monday,Area-12,Burglary,None
+2026-03-02,11:45,Monday,Area-25,Vandalism,None
+2026-03-02,19:30,Monday,Area-17,Vandalism,None
+2026-03-03,22:45,Tuesday,Area-18,Theft,None
+2026-03-03,22:00,Tuesday,Area-03,Theft,None
+2026-03-03,07:45,Tuesday,Area-22,Vandalism,Cricket Match
+2026-03-03,21:15,Tuesday,Area-03,Assault,None
+2026-03-03,23:00,Tuesday,Area-03,Robbery,None
+2026-03-03,21:45,Tuesday,Area-07,Burglary,None
+2026-03-04,13:00,Wednesday,Area-27,Vandalism,Market Day
+2026-03-04,19:00,Wednesday,Area-26,Assault,Market Day
+2026-03-04,19:30,Wednesday,Area-27,Robbery,Market Day
+2026-03-04,06:45,Wednesday,Area-18,Robbery,None
+2026-03-04,19:30,Wednesday,Area-05,Vandalism,None
+2026-03-05,21:30,Thursday,Area-29,Theft,None
+2026-03-05,23:45,Thursday,Area-18,Vandalism,Festival
+2026-03-05,22:15,Thursday,Area-22,Theft,None
+2026-03-05,21:45,Thursday,Area-22,Theft,Festival
+2026-03-05,19:15,Thursday,Area-18,Burglary,None
+2026-03-05,21:00,Thursday,Area-03,Theft,None
+2026-03-05,23:15,Thursday,Area-18,Vandalism,None
+2026-03-05,19:30,Thursday,Area-12,Theft,None
+2026-03-06,06:45,Friday,Area-18,Burglary,Cricket Match
+2026-03-06,21:00,Friday,Area-18,Vandalism,None
+2026-03-06,19:15,Friday,Area-27,Theft,None
+2026-03-06,19:45,Friday,Area-16,Burglary,None
+2026-03-07,16:45,Saturday,Area-16,Burglary,Market Day
+2026-03-07,19:45,Saturday,Area-03,Burglary,None
+2026-03-07,20:45,Saturday,Area-07,Robbery,Festival
+2026-03-07,22:45,Saturday,Area-24,Assault,Festival
+2026-03-07,10:30,Saturday,Area-15,Burglary,Festival
+2026-03-07,23:30,Saturday,Area-10,Assault,Cricket Match
+2026-03-08,11:30,Sunday,Area-18,Robbery,None
+2026-03-08,13:30,Sunday,Area-03,Assault,None
+2026-03-08,22:30,Sunday,Area-18,Vandalism,Festival
+2026-03-09,14:30,Monday,Area-25,Burglary,None
+2026-03-09,22:30,Monday,Area-03,Theft,None
+2026-03-09,20:45,Monday,Area-03,Theft,Political Rally
+2026-03-09,06:30,Monday,Area-22,Burglary,None
+2026-03-10,22:45,Tuesday,Area-03,Robbery,None
+2026-03-10,06:30,Tuesday,Area-04,Vandalism,None
+2026-03-10,21:00,Tuesday,Area-03,Robbery,Political Rally
+2026-03-10,18:45,Tuesday,Area-18,Chain Snatching,None
+2026-03-11,11:45,Wednesday,Area-25,Burglary,None
+2026-03-11,15:15,Wednesday,Area-27,Theft,None
+2026-03-11,23:00,Wednesday,Area-19,Theft,Cricket Match
+2026-03-11,19:15,Wednesday,Area-23,Theft,Cricket Match
+2026-03-11,21:00,Wednesday,Area-03,Theft,Market Day
+2026-03-11,19:15,Wednesday,Area-16,Theft,Cricket Match
+2026-03-12,15:15,Thursday,Area-01,Vandalism,None
+2026-03-12,21:00,Thursday,Area-22,Vandalism,None
+2026-03-12,13:15,Thursday,Area-12,Theft,Cricket Match
+2026-03-12,21:15,Thursday,Area-18,Burglary,None
+2026-03-12,14:30,Thursday,Area-05,Assault,None
+2026-03-13,22:30,Friday,Area-30,Vandalism,Market Day
+2026-03-13,10:30,Friday,Area-08,Assault,Political Rally
+2026-03-13,23:45,Friday,Area-22,Burglary,Cricket Match
+2026-03-13,14:45,Friday,Area-07,Assault,None
+2026-03-13,21:30,Friday,Area-06,Robbery,Cricket Match
+2026-03-13,20:15,Friday,Area-03,Robbery,None
+2026-03-13,19:45,Friday,Area-27,Theft,Market Day
+2026-03-14,19:30,Saturday,Area-27,Theft,Political Rally
+2026-03-14,21:00,Saturday,Area-19,Theft,None
+2026-03-14,23:00,Saturday,Area-20,Burglary,None
+2026-03-15,22:30,Sunday,Area-29,Burglary,Political Rally
+2026-03-15,19:15,Sunday,Area-27,Assault,None
+2026-03-15,21:30,Sunday,Area-03,Assault,Festival
+2026-03-15,09:00,Sunday,Area-04,Robbery,Political Rally
+2026-03-15,14:00,Sunday,Area-14,Theft,Market Day
+2026-03-15,23:00,Sunday,Area-12,Theft,Festival
+2026-03-16,20:30,Monday,Area-08,Robbery,Political Rally
+2026-03-16,17:30,Monday,Area-27,Assault,None
+2026-03-16,17:00,Monday,Area-12,Theft,Political Rally
+2026-03-16,23:15,Monday,Area-21,Burglary,None
+2026-03-16,08:45,Monday,Area-03,Vandalism,Market Day
+2026-03-16,21:45,Monday,Area-10,Burglary,None
+2026-03-16,21:30,Monday,Area-03,Robbery,Cricket Match
+2026-03-16,22:00,Monday,Area-21,Vandalism,Political Rally
+2026-03-17,21:45,Tuesday,Area-03,Assault,Market Day
+2026-03-17,20:45,Tuesday,Area-02,Vandalism,Political Rally
+2026-03-17,13:00,Tuesday,Area-11,Theft,None
+2026-03-17,23:15,Tuesday,Area-12,Burglary,Market Day
+2026-03-18,21:15,Wednesday,Area-27,Chain Snatching,Market Day
+2026-03-18,17:15,Wednesday,Area-18,Theft,None
+2026-03-18,19:00,Wednesday,Area-28,Burglary,Festival
+2026-03-18,06:45,Wednesday,Area-05,Chain Snatching,Cricket Match
+2026-03-19,22:45,Thursday,Area-22,Theft,Cricket Match
+2026-03-19,07:15,Thursday,Area-18,Burglary,Market Day
+2026-03-19,19:00,Thursday,Area-14,Theft,Festival
+2026-03-19,06:30,Thursday,Area-11,Vandalism,None
+2026-03-20,12:45,Friday,Area-22,Chain Snatching,None
+2026-03-20,06:30,Friday,Area-18,Assault,None
+2026-03-20,12:00,Friday,Area-07,Theft,Festival
+2026-03-21,07:15,Saturday,Area-05,Theft,Political Rally
+2026-03-21,08:00,Saturday,Area-21,Robbery,Market Day
+2026-03-21,19:30,Saturday,Area-20,Robbery,Festival
+2026-03-21,09:00,Saturday,Area-24,Theft,None
+2026-03-21,20:00,Saturday,Area-02,Vandalism,Festival
+2026-03-21,16:00,Saturday,Area-18,Chain Snatching,Cricket Match
+2026-03-21,19:15,Saturday,Area-22,Theft,None
+2026-03-22,06:15,Sunday,Area-08,Burglary,Cricket Match
+2026-03-22,20:15,Sunday,Area-06,Assault,None
+2026-03-22,08:45,Sunday,Area-16,Theft,Festival
+2026-03-22,23:00,Sunday,Area-27,Robbery,None
+2026-03-22,19:15,Sunday,Area-08,Robbery,None
+2026-03-22,22:00,Sunday,Area-01,Burglary,None
+2026-03-22,20:45,Sunday,Area-22,Burglary,Market Day
+2026-03-22,23:45,Sunday,Area-18,Assault,None
+2026-03-23,18:30,Monday,Area-22,Theft,Cricket Match
+2026-03-23,21:15,Monday,Area-12,Robbery,Market Day
+2026-03-23,20:30,Monday,Area-27,Assault,None
+2026-03-23,20:45,Monday,Area-30,Theft,None
+2026-03-24,22:30,Tuesday,Area-12,Theft,Market Day
+2026-03-24,20:15,Tuesday,Area-03,Burglary,Cricket Match
+2026-03-24,23:00,Tuesday,Area-03,Robbery,None
+2026-03-24,07:15,Tuesday,Area-03,Robbery,None
+2026-03-24,22:45,Tuesday,Area-19,Burglary,None
+2026-03-24,21:15,Tuesday,Area-27,Chain Snatching,Political Rally
+2026-03-24,10:45,Tuesday,Area-27,Theft,Political Rally
+2026-03-24,22:45,Tuesday,Area-03,Robbery,None
+2026-03-24,23:30,Tuesday,Area-08,Vandalism,None
+2026-03-24,21:45,Tuesday,Area-12,Assault,None
+2026-03-25,19:30,Wednesday,Area-03,Burglary,None
+2026-03-25,16:15,Wednesday,Area-03,Robbery,None
+2026-03-25,14:45,Wednesday,Area-03,Burglary,Festival
+2026-03-26,20:00,Thursday,Area-18,Assault,None
+2026-03-26,22:00,Thursday,Area-18,Burglary,Market Day
+2026-03-26,19:30,Thursday,Area-27,Robbery,None
+2026-03-27,07:00,Friday,Area-22,Burglary,Festival
+2026-03-27,18:00,Friday,Area-23,Chain Snatching,Political Rally
+2026-03-27,11:45,Friday,Area-13,Burglary,None
+2026-03-27,19:15,Friday,Area-18,Assault,None
+2026-03-28,19:15,Saturday,Area-07,Vandalism,None
+2026-03-28,20:45,Saturday,Area-02,Chain Snatching,Cricket Match
+2026-03-28,21:30,Saturday,Area-16,Vandalism,None
+2026-03-28,19:15,Saturday,Area-24,Assault,Market Day
+2026-03-28,23:00,Saturday,Area-15,Burglary,Political Rally
+2026-03-28,21:30,Saturday,Area-21,Assault,None
+2026-03-28,23:00,Saturday,Area-18,Assault,Cricket Match
+2026-03-28,20:45,Saturday,Area-21,Theft,Cricket Match
+2026-03-29,19:00,Sunday,Area-18,Burglary,Political Rally
+2026-03-29,23:30,Sunday,Area-25,Vandalism,Cricket Match
+2026-03-29,20:15,Sunday,Area-16,Chain Snatching,Festival
+2026-03-29,19:15,Sunday,Area-12,Theft,None
+2026-03-29,19:15,Sunday,Area-22,Theft,Political Rally
+2026-03-29,12:30,Sunday,Area-20,Theft,Political Rally
+2026-03-30,13:00,Monday,Area-27,Assault,Political Rally
+2026-03-30,21:15,Monday,Area-17,Theft,None
+2026-03-30,19:45,Monday,Area-22,Assault,Cricket Match
+2026-03-30,13:30,Monday,Area-07,Burglary,None
+2026-03-30,14:00,Monday,Area-05,Burglary,Political Rally
+2026-03-31,23:15,Tuesday,Area-18,Theft,None
+2026-03-31,22:15,Tuesday,Area-27,Robbery,None
+2026-04-01,15:00,Wednesday,Area-22,Theft,Cricket Match
+2026-04-01,19:00,Wednesday,Area-12,Burglary,None
+2026-04-01,15:15,Wednesday,Area-29,Chain Snatching,None
+2026-04-01,23:30,Wednesday,Area-11,Robbery,Cricket Match
+2026-04-01,06:00,Wednesday,Area-03,Assault,Political Rally
+2026-04-01,19:00,Wednesday,Area-14,Assault,Festival
+2026-04-02,19:30,Thursday,Area-12,Theft,Market Day
+2026-04-02,09:45,Thursday,Area-12,Assault,Festival
+2026-04-02,20:45,Thursday,Area-28,Chain Snatching,None
+2026-04-03,06:00,Friday,Area-15,Chain Snatching,Cricket Match
+2026-04-03,23:45,Friday,Area-05,Burglary,Political Rally
+2026-04-03,19:00,Friday,Area-07,Vandalism,Festival
+2026-04-03,22:45,Friday,Area-27,Burglary,Political Rally
+2026-04-03,20:45,Friday,Area-27,Vandalism,Political Rally
+2026-04-03,18:15,Friday,Area-03,Theft,Market Day
+2026-04-04,22:30,Saturday,Area-12,Robbery,Market Day
+2026-04-04,06:30,Saturday,Area-26,Theft,Market Day
+2026-04-04,20:15,Saturday,Area-29,Theft,None
+2026-04-04,19:15,Saturday,Area-06,Vandalism,Festival
+2026-04-04,22:30,Saturday,Area-27,Robbery,Political Rally
+2026-04-04,19:15,Saturday,Area-27,Vandalism,Political Rally
+2026-04-04,23:15,Saturday,Area-27,Assault,Festival
+2026-04-05,17:00,Sunday,Area-22,Assault,Cricket Match
+2026-04-05,19:30,Sunday,Area-02,Burglary,None
+2026-04-05,13:15,Sunday,Area-08,Burglary,Market Day
+2026-04-05,23:45,Sunday,Area-13,Vandalism,Festival
+2026-04-05,20:15,Sunday,Area-05,Theft,None
+2026-04-05,15:30,Sunday,Area-03,Assault,None
+2026-04-06,21:15,Monday,Area-11,Theft,Cricket Match
+2026-04-06,07:00,Monday,Area-22,Vandalism,None
+2026-04-06,23:45,Monday,Area-27,Assault,None
+2026-04-06,21:15,Monday,Area-12,Theft,None
+2026-04-06,19:30,Monday,Area-22,Burglary,None
+2026-04-06,19:30,Monday,Area-22,Vandalism,None
+2026-04-07,14:15,Tuesday,Area-27,Assault,Market Day
+2026-04-07,19:30,Tuesday,Area-12,Burglary,None
+2026-04-07,21:30,Tuesday,Area-12,Assault,None
+2026-04-08,23:30,Wednesday,Area-04,Theft,Cricket Match
+2026-04-08,22:30,Wednesday,Area-21,Burglary,None
+2026-04-08,17:00,Wednesday,Area-27,Burglary,None
+2026-04-08,12:30,Wednesday,Area-12,Theft,None
+2026-04-08,20:45,Wednesday,Area-28,Burglary,None
+2026-04-08,18:15,Wednesday,Area-13,Theft,None
+2026-04-09,08:15,Thursday,Area-18,Robbery,Market Day
+2026-04-09,22:45,Thursday,Area-09,Theft,None
+2026-04-09,08:45,Thursday,Area-26,Chain Snatching,None
+2026-04-09,23:45,Thursday,Area-18,Robbery,None
+2026-04-09,19:30,Thursday,Area-10,Burglary,Political Rally
+2026-04-09,19:15,Thursday,Area-18,Robbery,None
+2026-04-10,23:15,Friday,Area-27,Burglary,Political Rally
+2026-04-10,23:45,Friday,Area-18,Theft,Market Day
+2026-04-10,23:15,Friday,Area-27,Robbery,Market Day
+2026-04-10,23:00,Friday,Area-27,Theft,Political Rally
+2026-04-11,23:15,Saturday,Area-22,Assault,Political Rally
+2026-04-11,23:00,Saturday,Area-12,Vandalism,None
+2026-04-12,22:45,Sunday,Area-24,Vandalism,Cricket Match
+2026-04-12,12:45,Sunday,Area-27,Theft,Festival
+2026-04-12,20:30,Sunday,Area-18,Theft,Cricket Match
+2026-04-12,15:45,Sunday,Area-01,Assault,Market Day
+2026-04-12,21:45,Sunday,Area-18,Burglary,None
+2026-04-13,06:30,Monday,Area-16,Burglary,Festival
+2026-04-13,22:00,Monday,Area-06,Assault,None
+2026-04-13,23:00,Monday,Area-18,Burglary,Political Rally
+2026-04-13,21:45,Monday,Area-03,Robbery,None
+2026-04-13,13:30,Monday,Area-06,Chain Snatching,None
+2026-04-13,19:30,Monday,Area-08,Theft,None
+2026-04-13,19:15,Monday,Area-22,Robbery,None
+2026-04-14,09:00,Tuesday,Area-18,Burglary,None
+2026-04-14,21:00,Tuesday,Area-28,Theft,Cricket Match
+2026-04-14,06:15,Tuesday,Area-22,Theft,None
+2026-04-14,22:45,Tuesday,Area-18,Assault,None
+2026-04-14,21:45,Tuesday,Area-12,Chain Snatching,Market Day
+2026-04-14,23:00,Tuesday,Area-22,Robbery,Festival
+2026-04-14,23:45,Tuesday,Area-03,Theft,Political Rally
+2026-04-15,23:45,Wednesday,Area-18,Theft,None
+2026-04-15,10:00,Wednesday,Area-30,Theft,Cricket Match
+2026-04-15,21:00,Wednesday,Area-27,Burglary,None
+2026-04-15,21:30,Wednesday,Area-05,Robbery,Festival
+2026-04-16,20:00,Thursday,Area-26,Robbery,Festival
+2026-04-16,09:30,Thursday,Area-28,Theft,None
+2026-04-16,22:30,Thursday,Area-27,Assault,Political Rally
+2026-04-16,20:15,Thursday,Area-07,Vandalism,Cricket Match
+2026-04-16,20:45,Thursday,Area-03,Theft,None
+2026-04-16,20:30,Thursday,Area-07,Burglary,Political Rally
+2026-04-16,19:30,Thursday,Area-18,Burglary,None
+2026-04-16,21:00,Thursday,Area-03,Assault,Cricket Match
+2026-04-16,20:00,Thursday,Area-12,Robbery,None
+2026-04-17,19:00,Friday,Area-27,Assault,None
+2026-04-17,20:15,Friday,Area-22,Burglary,Cricket Match
+2026-04-17,20:15,Friday,Area-18,Assault,None
+2026-04-17,21:30,Friday,Area-07,Burglary,Festival
+2026-04-17,23:30,Friday,Area-24,Theft,Cricket Match
+2026-04-17,17:00,Friday,Area-02,Burglary,None
+2026-04-17,23:15,Friday,Area-30,Assault,None
+2026-04-17,19:30,Friday,Area-22,Assault,Political Rally
+2026-04-17,23:15,Friday,Area-06,Chain Snatching,Market Day
+2026-04-18,23:30,Saturday,Area-11,Burglary,Market Day
+2026-04-18,22:30,Saturday,Area-27,Robbery,Festival
+2026-04-18,06:45,Saturday,Area-22,Burglary,None
+2026-04-18,22:00,Saturday,Area-24,Vandalism,None
+2026-04-19,22:00,Sunday,Area-16,Assault,Cricket Match
+2026-04-19,11:45,Sunday,Area-27,Theft,Festival
+2026-04-19,21:15,Sunday,Area-28,Burglary,Festival
+2026-04-19,20:30,Sunday,Area-27,Robbery,Cricket Match
+2026-04-19,21:45,Sunday,Area-03,Burglary,None
+2026-04-19,19:00,Sunday,Area-27,Burglary,None
+2026-04-19,20:15,Sunday,Area-27,Burglary,Cricket Match
+2026-04-19,23:00,Sunday,Area-09,Theft,Political Rally
+2026-04-20,13:00,Monday,Area-16,Vandalism,Market Day
+2026-04-20,23:30,Monday,Area-11,Chain Snatching,Political Rally
+2026-04-20,19:45,Monday,Area-20,Robbery,None
+2026-04-20,21:30,Monday,Area-12,Burglary,Political Rally
+2026-04-20,21:30,Monday,Area-03,Burglary,Cricket Match
+2026-04-21,22:15,Tuesday,Area-08,Vandalism,Cricket Match
+2026-04-21,20:00,Tuesday,Area-27,Robbery,Cricket Match
+2026-04-21,21:45,Tuesday,Area-04,Burglary,None
+2026-04-21,20:30,Tuesday,Area-18,Theft,None
+2026-04-21,21:30,Tuesday,Area-27,Theft,Market Day
+2026-04-22,10:45,Wednesday,Area-22,Burglary,None
+2026-04-22,21:00,Wednesday,Area-18,Theft,Cricket Match
+2026-04-22,19:30,Wednesday,Area-12,Theft,None
+2026-04-22,19:00,Wednesday,Area-30,Robbery,Cricket Match
+2026-04-22,15:45,Wednesday,Area-03,Robbery,Festival
+2026-04-22,17:30,Wednesday,Area-03,Chain Snatching,None
+2026-04-22,09:00,Wednesday,Area-28,Burglary,Political Rally
+2026-04-23,21:15,Thursday,Area-03,Theft,None
+2026-04-23,23:15,Thursday,Area-18,Burglary,Market Day
+2026-04-23,20:45,Thursday,Area-07,Robbery,Political Rally
+2026-04-23,21:30,Thursday,Area-22,Burglary,Market Day
+2026-04-23,14:30,Thursday,Area-27,Theft,Cricket Match
+2026-04-23,17:30,Thursday,Area-03,Robbery,None
+2026-04-23,20:30,Thursday,Area-18,Vandalism,None
+2026-04-23,12:15,Thursday,Area-16,Theft,None
+2026-04-23,09:45,Thursday,Area-25,Burglary,Cricket Match
+2026-04-23,21:15,Thursday,Area-01,Theft,None
+2026-04-23,20:00,Thursday,Area-15,Burglary,Cricket Match
+2026-04-23,22:30,Thursday,Area-27,Robbery,Political Rally
+2026-04-24,20:00,Friday,Area-05,Theft,Market Day
+2026-04-24,22:00,Friday,Area-11,Theft,Political Rally
+2026-04-25,20:00,Saturday,Area-27,Burglary,Cricket Match
+2026-04-25,23:45,Saturday,Area-06,Assault,None
+2026-04-25,06:00,Saturday,Area-18,Burglary,Market Day
+2026-04-25,23:15,Saturday,Area-02,Robbery,Cricket Match
+2026-04-25,21:15,Saturday,Area-27,Vandalism,Cricket Match
+2026-04-25,23:15,Saturday,Area-27,Chain Snatching,Market Day
+2026-04-25,22:15,Saturday,Area-03,Burglary,Political Rally
+2026-04-26,19:15,Sunday,Area-03,Theft,Market Day
+2026-04-26,19:45,Sunday,Area-03,Chain Snatching,Cricket Match
+2026-04-26,15:30,Sunday,Area-18,Assault,Market Day
+2026-04-26,19:45,Sunday,Area-28,Theft,Cricket Match
+2026-04-26,22:00,Sunday,Area-12,Assault,None
+2026-04-27,12:15,Monday,Area-07,Assault,Market Day
+2026-04-27,20:00,Monday,Area-02,Theft,None
+2026-04-27,21:15,Monday,Area-07,Burglary,Political Rally
+2026-04-27,20:15,Monday,Area-12,Theft,None
+2026-04-27,19:15,Monday,Area-03,Vandalism,None
+2026-04-27,19:15,Monday,Area-18,Burglary,None
+2026-04-27,22:15,Monday,Area-03,Theft,None
+2026-04-27,23:15,Monday,Area-13,Vandalism,None
+2026-04-27,19:00,Monday,Area-27,Burglary,None
+2026-04-28,13:30,Tuesday,Area-03,Assault,None
+2026-04-28,21:45,Tuesday,Area-11,Theft,None
+2026-04-28,19:00,Tuesday,Area-07,Theft,Political Rally
+2026-04-28,23:30,Tuesday,Area-05,Robbery,None
+2026-04-28,23:45,Tuesday,Area-28,Burglary,Market Day
+2026-04-29,20:30,Wednesday,Area-19,Chain Snatching,Political Rally
+2026-04-29,06:30,Wednesday,Area-14,Robbery,Market Day
+2026-04-29,20:45,Wednesday,Area-12,Burglary,Festival
+2026-04-29,22:15,Wednesday,Area-18,Theft,Market Day
+2026-04-29,20:00,Wednesday,Area-02,Theft,Festival
+2026-04-29,23:45,Wednesday,Area-25,Chain Snatching,None
+2026-04-30,20:00,Thursday,Area-12,Theft,Market Day
+2026-04-30,22:30,Thursday,Area-02,Assault,None
+2026-04-30,22:15,Thursday,Area-27,Assault,None
+2026-05-01,23:30,Friday,Area-07,Chain Snatching,Political Rally
+2026-05-01,19:45,Friday,Area-03,Burglary,None
+2026-05-01,23:30,Friday,Area-03,Burglary,Festival
+2026-05-01,23:30,Friday,Area-07,Vandalism,Market Day
+2026-05-01,21:00,Friday,Area-03,Assault,None
+2026-05-02,11:00,Saturday,Area-07,Robbery,None
+2026-05-02,20:45,Saturday,Area-27,Assault,None
+2026-05-02,20:00,Saturday,Area-07,Vandalism,Festival
+2026-05-02,06:30,Saturday,Area-18,Theft,Festival
+2026-05-02,15:15,Saturday,Area-25,Assault,Political Rally
+2026-05-02,22:30,Saturday,Area-22,Robbery,Festival
+2026-05-02,22:30,Saturday,Area-07,Chain Snatching,Cricket Match
+2026-05-02,22:00,Saturday,Area-18,Assault,None
+2026-05-02,19:30,Saturday,Area-07,Burglary,Cricket Match
+2026-05-02,20:45,Saturday,Area-21,Vandalism,Market Day
+2026-05-02,10:45,Saturday,Area-07,Robbery,Market Day
+2026-05-02,21:00,Saturday,Area-27,Chain Snatching,Market Day
+2026-05-02,14:45,Saturday,Area-22,Theft,Cricket Match
+2026-05-03,20:15,Sunday,Area-03,Theft,None
+2026-05-03,10:45,Sunday,Area-30,Theft,Market Day
+2026-05-03,22:15,Sunday,Area-12,Robbery,None
+2026-05-03,18:00,Sunday,Area-27,Robbery,Political Rally
+2026-05-04,06:15,Monday,Area-12,Burglary,Political Rally
+2026-05-04,22:15,Monday,Area-27,Burglary,None
+2026-05-04,12:30,Monday,Area-12,Vandalism,None
+2026-05-05,23:00,Tuesday,Area-14,Burglary,None
+2026-05-05,22:15,Tuesday,Area-18,Robbery,Cricket Match
+2026-05-05,21:30,Tuesday,Area-22,Theft,None
+2026-05-05,19:15,Tuesday,Area-28,Theft,Cricket Match
+2026-05-05,06:45,Tuesday,Area-22,Theft,None
+2026-05-05,23:45,Tuesday,Area-19,Burglary,None
+2026-05-05,14:00,Tuesday,Area-05,Assault,Political Rally
+2026-05-05,20:45,Tuesday,Area-12,Theft,None
+2026-05-05,12:30,Tuesday,Area-15,Burglary,None
+2026-05-05,23:45,Tuesday,Area-07,Theft,None
+2026-05-06,19:45,Wednesday,Area-12,Theft,None
+2026-05-06,20:45,Wednesday,Area-22,Theft,None
+2026-05-06,22:45,Wednesday,Area-27,Burglary,None
+2026-05-06,12:15,Wednesday,Area-22,Assault,Festival
+2026-05-06,23:00,Wednesday,Area-22,Chain Snatching,None
+2026-05-06,21:15,Wednesday,Area-27,Chain Snatching,None
+2026-05-06,19:30,Wednesday,Area-03,Assault,None
+2026-05-06,11:45,Wednesday,Area-27,Burglary,None
+2026-05-06,10:45,Wednesday,Area-12,Robbery,Political Rally
+2026-05-06,22:00,Wednesday,Area-03,Chain Snatching,Market Day
+2026-05-06,06:15,Wednesday,Area-12,Robbery,Festival
+2026-05-07,13:30,Thursday,Area-05,Theft,None
+2026-05-07,21:15,Thursday,Area-12,Robbery,Cricket Match
+2026-05-07,22:00,Thursday,Area-21,Theft,None
+2026-05-07,22:45,Thursday,Area-03,Assault,Festival
+2026-05-07,19:45,Thursday,Area-12,Assault,None
+2026-05-07,19:30,Thursday,Area-03,Theft,None
+2026-05-07,23:00,Thursday,Area-07,Burglary,Cricket Match
+2026-05-07,20:45,Thursday,Area-03,Robbery,None
+2026-05-08,19:30,Friday,Area-07,Burglary,None
+2026-05-08,21:30,Friday,Area-04,Vandalism,Festival
+2026-05-08,19:00,Friday,Area-12,Robbery,Market Day
+2026-05-08,21:30,Friday,Area-27,Theft,None
+2026-05-08,21:00,Friday,Area-06,Vandalism,None
+2026-05-08,23:15,Friday,Area-18,Theft,None
+2026-05-08,20:15,Friday,Area-07,Theft,Festival
+2026-05-08,21:45,Friday,Area-10,Vandalism,None
+2026-05-08,21:45,Friday,Area-15,Theft,Cricket Match
+2026-05-08,15:45,Friday,Area-18,Theft,Political Rally
+2026-05-08,14:15,Friday,Area-07,Burglary,None
+2026-05-08,10:15,Friday,Area-08,Theft,Market Day
+2026-05-09,23:15,Saturday,Area-04,Chain Snatching,Festival
+2026-05-09,13:00,Saturday,Area-11,Robbery,None
+2026-05-09,22:30,Saturday,Area-12,Theft,Festival
+2026-05-09,22:45,Saturday,Area-05,Assault,None
+2026-05-10,22:30,Sunday,Area-12,Assault,Market Day
+2026-05-10,23:15,Sunday,Area-28,Theft,Cricket Match
+2026-05-10,22:15,Sunday,Area-12,Robbery,Market Day
+2026-05-10,22:45,Sunday,Area-14,Burglary,Market Day
+2026-05-10,19:45,Sunday,Area-18,Robbery,None
+2026-05-10,06:45,Sunday,Area-13,Chain Snatching,Market Day
+2026-05-10,22:30,Sunday,Area-03,Theft,None
+2026-05-10,22:45,Sunday,Area-27,Assault,Festival
+2026-05-10,20:30,Sunday,Area-03,Burglary,Political Rally
+2026-05-11,21:15,Monday,Area-07,Assault,None
+2026-05-11,23:15,Monday,Area-30,Assault,None
+2026-05-11,20:15,Monday,Area-18,Burglary,None
+2026-05-11,22:30,Monday,Area-12,Theft,None
+2026-05-12,20:30,Tuesday,Area-18,Robbery,Market Day
+2026-05-12,19:15,Tuesday,Area-07,Vandalism,None
+2026-05-12,21:45,Tuesday,Area-12,Assault,Political Rally
+2026-05-12,19:15,Tuesday,Area-07,Vandalism,None
+2026-05-12,20:30,Tuesday,Area-20,Theft,None
+2026-05-12,15:30,Tuesday,Area-07,Burglary,Market Day
+2026-05-13,21:30,Wednesday,Area-18,Robbery,Political Rally
+2026-05-13,23:15,Wednesday,Area-27,Chain Snatching,Cricket Match
+2026-05-13,19:30,Wednesday,Area-27,Assault,Cricket Match
+2026-05-13,19:30,Wednesday,Area-20,Theft,None
+2026-05-13,22:30,Wednesday,Area-18,Assault,None
+2026-05-13,20:15,Wednesday,Area-03,Theft,None
+2026-05-13,20:30,Wednesday,Area-10,Burglary,Cricket Match
+2026-05-13,21:30,Wednesday,Area-30,Robbery,Cricket Match
+2026-05-13,18:15,Wednesday,Area-25,Vandalism,Festival
+2026-05-13,22:00,Wednesday,Area-12,Robbery,None
+2026-05-14,23:30,Thursday,Area-10,Robbery,None
+2026-05-14,20:30,Thursday,Area-18,Burglary,Market Day
+2026-05-14,22:45,Thursday,Area-12,Robbery,Market Day
+2026-05-14,20:45,Thursday,Area-07,Vandalism,Festival
+2026-05-14,14:30,Thursday,Area-19,Burglary,None
+2026-05-14,20:15,Thursday,Area-16,Assault,None
+2026-05-14,21:45,Thursday,Area-14,Robbery,Cricket Match
+2026-05-14,19:15,Thursday,Area-27,Chain Snatching,Political Rally
+2026-05-14,11:00,Thursday,Area-27,Assault,None
+2026-05-14,20:00,Thursday,Area-17,Theft,None
+2026-05-14,21:30,Thursday,Area-07,Theft,None
+2026-05-14,20:30,Thursday,Area-18,Vandalism,Festival
+2026-05-14,22:15,Thursday,Area-03,Chain Snatching,Political Rally
+2026-05-14,22:00,Thursday,Area-18,Burglary,None
+2026-05-14,23:45,Thursday,Area-18,Burglary,None
+2026-05-14,16:00,Thursday,Area-12,Burglary,None
+2026-05-15,09:15,Friday,Area-12,Burglary,Cricket Match
+2026-05-15,23:00,Friday,Area-27,Theft,Cricket Match
+2026-05-15,22:45,Friday,Area-17,Theft,None
+2026-05-15,16:00,Friday,Area-27,Burglary,None
+2026-05-16,21:30,Saturday,Area-07,Assault,None
+2026-05-16,17:15,Saturday,Area-18,Assault,Cricket Match
+2026-05-16,19:00,Saturday,Area-20,Chain Snatching,None
+2026-05-16,21:00,Saturday,Area-07,Chain Snatching,None
+2026-05-17,22:00,Sunday,Area-18,Vandalism,None
+2026-05-17,11:15,Sunday,Area-12,Theft,Festival
+2026-05-17,20:15,Sunday,Area-22,Assault,None
+2026-05-17,19:15,Sunday,Area-22,Assault,None
+2026-05-17,23:00,Sunday,Area-27,Assault,Market Day
+2026-05-17,20:00,Sunday,Area-03,Vandalism,Festival
+2026-05-17,22:30,Sunday,Area-16,Burglary,None
+2026-05-18,20:45,Monday,Area-30,Theft,Festival
+2026-05-18,22:00,Monday,Area-07,Vandalism,None
+2026-05-18,22:45,Monday,Area-19,Robbery,None
+2026-05-19,19:45,Tuesday,Area-22,Vandalism,Festival
+2026-05-19,19:15,Tuesday,Area-18,Robbery,None
+2026-05-19,11:00,Tuesday,Area-27,Assault,Festival
+2026-05-19,23:45,Tuesday,Area-03,Theft,None
+2026-05-19,21:15,Tuesday,Area-03,Assault,Festival
+2026-05-19,20:30,Tuesday,Area-07,Assault,None
+2026-05-19,22:00,Tuesday,Area-16,Theft,None
+2026-05-19,19:45,Tuesday,Area-18,Chain Snatching,None
+2026-05-20,21:45,Wednesday,Area-18,Robbery,Political Rally
+2026-05-20,22:45,Wednesday,Area-27,Robbery,None
+2026-05-20,19:45,Wednesday,Area-27,Vandalism,Market Day
+2026-05-20,23:45,Wednesday,Area-27,Theft,Political Rally
+2026-05-20,20:45,Wednesday,Area-12,Theft,None
+2026-05-20,22:15,Wednesday,Area-18,Robbery,None
+2026-05-20,22:15,Wednesday,Area-07,Robbery,None
+2026-05-21,22:45,Thursday,Area-06,Assault,None
+2026-05-21,19:15,Thursday,Area-22,Chain Snatching,Festival
+2026-05-21,19:30,Thursday,Area-22,Theft,Political Rally
+2026-05-21,19:45,Thursday,Area-07,Assault,None
+2026-05-21,20:45,Thursday,Area-27,Theft,Festival
+2026-05-21,22:15,Thursday,Area-03,Assault,Political Rally
+2026-05-21,21:15,Thursday,Area-12,Assault,None
+2026-05-21,18:30,Thursday,Area-19,Vandalism,None
+2026-05-21,21:15,Thursday,Area-12,Burglary,None
+2026-05-21,23:30,Thursday,Area-22,Robbery,None
+2026-05-22,21:45,Friday,Area-07,Theft,Market Day
+2026-05-22,14:15,Friday,Area-15,Robbery,Cricket Match
+2026-05-22,20:00,Friday,Area-27,Burglary,Market Day
+2026-05-22,22:30,Friday,Area-22,Theft,None
+2026-05-22,07:45,Friday,Area-07,Chain Snatching,None
+2026-05-22,21:15,Friday,Area-03,Burglary,Festival
+2026-05-22,20:00,Friday,Area-07,Vandalism,None
+2026-05-22,21:30,Friday,Area-12,Vandalism,Market Day
+2026-05-22,21:30,Friday,Area-07,Burglary,None
+2026-05-22,20:30,Friday,Area-16,Theft,None
+2026-05-22,23:15,Friday,Area-03,Burglary,None
+2026-05-22,21:15,Friday,Area-27,Vandalism,Market Day
+2026-05-22,22:45,Friday,Area-07,Assault,Festival
+2026-05-22,14:30,Friday,Area-18,Burglary,None
+2026-05-23,19:30,Saturday,Area-14,Robbery,Market Day
+2026-05-23,21:30,Saturday,Area-07,Theft,Market Day
+2026-05-23,07:30,Saturday,Area-03,Vandalism,Cricket Match
+2026-05-23,22:15,Saturday,Area-12,Vandalism,None
+2026-05-23,22:15,Saturday,Area-08,Theft,None
+2026-05-23,18:30,Saturday,Area-14,Assault,Festival
+2026-05-23,22:00,Saturday,Area-12,Robbery,None
+2026-05-23,16:45,Saturday,Area-12,Assault,Festival
+2026-05-23,22:00,Saturday,Area-18,Assault,None
+2026-05-23,19:45,Saturday,Area-21,Theft,None
+2026-05-24,20:00,Sunday,Area-21,Chain Snatching,Political Rally
+2026-05-24,17:45,Sunday,Area-22,Assault,Cricket Match
+2026-05-24,20:15,Sunday,Area-18,Theft,Political Rally
+2026-05-24,22:00,Sunday,Area-03,Chain Snatching,Market Day
+2026-05-24,19:45,Sunday,Area-26,Theft,None
+2026-05-24,11:00,Sunday,Area-06,Theft,Cricket Match
+2026-05-24,17:45,Sunday,Area-27,Vandalism,Political Rally
+2026-05-24,19:30,Sunday,Area-03,Theft,None
+2026-05-24,15:45,Sunday,Area-25,Vandalism,None
+2026-05-24,12:30,Sunday,Area-12,Vandalism,None
+2026-05-25,22:15,Monday,Area-07,Theft,None
+2026-05-25,19:00,Monday,Area-03,Assault,None
+2026-05-25,20:00,Monday,Area-22,Theft,None
+2026-05-25,19:30,Monday,Area-22,Theft,Cricket Match
+2026-05-25,21:00,Monday,Area-12,Robbery,Market Day
+2026-05-25,06:15,Monday,Area-04,Theft,Political Rally
+2026-05-26,20:45,Tuesday,Area-22,Theft,Festival
+2026-05-26,22:45,Tuesday,Area-07,Robbery,None
+2026-05-26,22:30,Tuesday,Area-27,Assault,Political Rally
+2026-05-26,23:30,Tuesday,Area-13,Burglary,None
+2026-05-26,19:15,Tuesday,Area-07,Robbery,Political Rally
+2026-05-26,20:45,Tuesday,Area-18,Burglary,Cricket Match
+2026-05-26,21:45,Tuesday,Area-24,Theft,None
+2026-05-26,19:15,Tuesday,Area-18,Theft,Market Day
+2026-05-26,22:30,Tuesday,Area-13,Theft,None
+2026-05-26,22:45,Tuesday,Area-27,Theft,None
+2026-05-27,18:45,Wednesday,Area-18,Burglary,None
+2026-05-27,16:15,Wednesday,Area-07,Assault,None
+2026-05-27,20:30,Wednesday,Area-18,Theft,None
+2026-05-27,23:45,Wednesday,Area-12,Chain Snatching,None
+2026-05-27,19:45,Wednesday,Area-03,Chain Snatching,None
+2026-05-27,19:15,Wednesday,Area-05,Theft,None
+2026-05-27,22:30,Wednesday,Area-12,Theft,None
+2026-05-27,22:30,Wednesday,Area-04,Robbery,Political Rally
+2026-05-28,22:30,Thursday,Area-27,Theft,None
+2026-05-28,18:30,Thursday,Area-27,Burglary,Cricket Match
+2026-05-28,21:15,Thursday,Area-27,Robbery,Festival
+2026-05-28,23:30,Thursday,Area-27,Burglary,Cricket Match
+2026-05-28,20:15,Thursday,Area-26,Theft,Market Day
+2026-05-28,21:00,Thursday,Area-03,Robbery,None
+2026-05-28,16:30,Thursday,Area-08,Robbery,None
+2026-05-28,21:30,Thursday,Area-21,Burglary,Cricket Match
+2026-05-28,23:15,Thursday,Area-07,Burglary,Political Rally
+2026-05-28,20:30,Thursday,Area-22,Burglary,None
+2026-05-28,22:30,Thursday,Area-07,Theft,Festival
+2026-05-29,22:30,Friday,Area-27,Vandalism,Festival
+2026-05-29,22:30,Friday,Area-11,Theft,None
+2026-05-29,23:00,Friday,Area-03,Theft,Festival
+2026-05-29,06:00,Friday,Area-02,Robbery,Cricket Match
+2026-05-29,22:00,Friday,Area-07,Robbery,Festival
+2026-05-29,21:15,Friday,Area-22,Robbery,Political Rally
+2026-05-29,10:15,Friday,Area-07,Burglary,None
+2026-05-29,19:00,Friday,Area-27,Vandalism,None
+2026-05-30,20:45,Saturday,Area-12,Chain Snatching,None
+2026-05-30,20:00,Saturday,Area-18,Burglary,None
+2026-05-30,19:45,Saturday,Area-12,Assault,Cricket Match
+2026-05-30,23:15,Saturday,Area-01,Burglary,Political Rally
+2026-05-30,22:00,Saturday,Area-12,Burglary,Political Rally
+2026-05-30,11:30,Saturday,Area-22,Theft,Market Day
+2026-05-30,06:00,Saturday,Area-30,Theft,None
+2026-05-30,23:00,Saturday,Area-10,Burglary,None
+2026-05-30,21:00,Saturday,Area-03,Theft,Festival
+2026-05-30,17:45,Saturday,Area-22,Robbery,Market Day
+2026-05-30,20:00,Saturday,Area-17,Theft,None
+2026-05-30,11:15,Saturday,Area-19,Assault,Political Rally
+2026-05-30,19:45,Saturday,Area-03,Burglary,Festival
+2026-05-31,23:45,Sunday,Area-07,Assault,Political Rally
+2026-05-31,19:15,Sunday,Area-17,Theft,None
+2026-05-31,23:45,Sunday,Area-12,Robbery,None
+2026-05-31,20:30,Sunday,Area-18,Burglary,None
+2026-05-31,22:30,Sunday,Area-12,Robbery,None
+2026-05-31,21:00,Sunday,Area-12,Theft,None
+2026-06-01,23:30,Monday,Area-22,Burglary,None
+2026-06-01,22:15,Monday,Area-30,Assault,Cricket Match
+2026-06-01,23:00,Monday,Area-07,Burglary,None
+2026-06-02,21:45,Tuesday,Area-22,Burglary,Festival
+2026-06-02,15:45,Tuesday,Area-02,Theft,None
+2026-06-02,18:15,Tuesday,Area-27,Assault,Political Rally
+2026-06-02,16:45,Tuesday,Area-11,Burglary,None
+2026-06-02,19:30,Tuesday,Area-18,Burglary,None
+2026-06-02,20:00,Tuesday,Area-18,Chain Snatching,Market Day
+2026-06-02,22:00,Tuesday,Area-07,Theft,Cricket Match
+2026-06-02,23:15,Tuesday,Area-12,Assault,Cricket Match
+2026-06-02,22:45,Tuesday,Area-13,Theft,None
+2026-06-02,20:15,Tuesday,Area-27,Theft,None
+2026-06-02,23:15,Tuesday,Area-07,Assault,None
+2026-06-02,20:45,Tuesday,Area-03,Vandalism,Festival
+2026-06-02,21:30,Tuesday,Area-18,Vandalism,None
+2026-06-03,23:15,Wednesday,Area-27,Theft,None
+2026-06-03,14:30,Wednesday,Area-12,Vandalism,Festival
+2026-06-03,22:30,Wednesday,Area-19,Robbery,Political Rally
+2026-06-03,21:00,Wednesday,Area-18,Theft,Market Day
+2026-06-03,23:45,Wednesday,Area-12,Burglary,None
+2026-06-03,08:30,Wednesday,Area-22,Theft,Market Day
+2026-06-03,22:15,Wednesday,Area-07,Vandalism,None
+2026-06-04,21:15,Thursday,Area-18,Vandalism,None
+2026-06-04,22:45,Thursday,Area-23,Chain Snatching,None
+2026-06-04,22:30,Thursday,Area-12,Robbery,None
+2026-06-04,20:45,Thursday,Area-18,Theft,None
+2026-06-05,23:15,Friday,Area-04,Theft,None
+2026-06-05,10:15,Friday,Area-27,Robbery,None
+2026-06-05,23:30,Friday,Area-05,Theft,None
+2026-06-05,23:30,Friday,Area-07,Burglary,None
+2026-06-06,20:15,Saturday,Area-03,Chain Snatching,Market Day
+2026-06-06,23:00,Saturday,Area-22,Robbery,None
+2026-06-06,14:45,Saturday,Area-27,Vandalism,None
+2026-06-06,23:45,Saturday,Area-27,Chain Snatching,None
+2026-06-06,20:00,Saturday,Area-18,Burglary,None
+2026-06-06,09:15,Saturday,Area-04,Theft,Festival
+2026-06-06,20:15,Saturday,Area-06,Vandalism,Cricket Match
+2026-06-06,19:15,Saturday,Area-13,Vandalism,None
+2026-06-07,15:00,Sunday,Area-10,Chain Snatching,Political Rally
+2026-06-07,17:00,Sunday,Area-17,Burglary,None
+2026-06-07,23:45,Sunday,Area-07,Theft,None
+2026-06-07,22:00,Sunday,Area-27,Theft,Festival
+2026-06-07,10:00,Sunday,Area-03,Chain Snatching,None
+2026-06-07,09:45,Sunday,Area-12,Burglary,Political Rally
+2026-06-07,19:30,Sunday,Area-13,Theft,Market Day
+2026-06-07,20:15,Sunday,Area-22,Robbery,Festival
+2026-06-07,19:30,Sunday,Area-22,Theft,Cricket Match
+2026-06-08,23:00,Monday,Area-12,Robbery,None
+2026-06-08,20:00,Monday,Area-18,Robbery,None
+2026-06-08,16:15,Monday,Area-27,Robbery,None
+2026-06-08,20:15,Monday,Area-22,Theft,Political Rally
+2026-06-08,08:15,Monday,Area-16,Burglary,None
+2026-06-08,20:00,Monday,Area-07,Theft,None
+2026-06-08,22:15,Monday,Area-12,Burglary,Market Day
+2026-06-08,06:15,Monday,Area-27,Theft,Market Day
+2026-06-09,09:15,Tuesday,Area-03,Assault,None
+2026-06-09,19:00,Tuesday,Area-05,Theft,None
+2026-06-09,22:15,Tuesday,Area-27,Vandalism,Political Rally
+2026-06-09,10:30,Tuesday,Area-03,Assault,Market Day
+2026-06-09,16:45,Tuesday,Area-27,Theft,None
+2026-06-09,19:00,Tuesday,Area-18,Robbery,None
+2026-06-09,19:15,Tuesday,Area-07,Burglary,None
+2026-06-09,19:15,Tuesday,Area-21,Theft,None
+2026-06-10,19:15,Wednesday,Area-27,Theft,Political Rally
+2026-06-10,21:00,Wednesday,Area-27,Assault,Festival
+2026-06-10,19:15,Wednesday,Area-22,Burglary,Festival
+2026-06-10,19:45,Wednesday,Area-27,Vandalism,Market Day
+2026-06-10,22:15,Wednesday,Area-18,Assault,Political Rally
+2026-06-10,22:30,Wednesday,Area-18,Assault,None
+2026-06-10,22:15,Wednesday,Area-28,Assault,Political Rally
+2026-06-10,21:45,Wednesday,Area-07,Theft,Market Day
+2026-06-11,08:30,Thursday,Area-07,Assault,Cricket Match
+2026-06-11,22:45,Thursday,Area-12,Assault,Cricket Match
+2026-06-11,21:00,Thursday,Area-22,Theft,None
+2026-06-11,12:30,Thursday,Area-18,Burglary,Political Rally
+2026-06-12,20:30,Friday,Area-27,Burglary,Market Day
+2026-06-12,22:00,Friday,Area-18,Chain Snatching,Market Day
+2026-06-12,20:00,Friday,Area-20,Vandalism,None
+2026-06-12,19:15,Friday,Area-18,Chain Snatching,Political Rally
+2026-06-12,22:45,Friday,Area-12,Theft,Political Rally
+2026-06-12,23:00,Friday,Area-13,Burglary,Market Day
+2026-06-12,20:30,Friday,Area-08,Burglary,Cricket Match
+2026-06-12,20:15,Friday,Area-27,Burglary,None
+2026-06-12,20:15,Friday,Area-18,Burglary,None
+2026-06-12,23:45,Friday,Area-07,Vandalism,None
+2026-06-12,22:30,Friday,Area-03,Burglary,Festival
+2026-06-13,20:45,Saturday,Area-12,Burglary,None
+2026-06-13,20:00,Saturday,Area-22,Vandalism,Political Rally
+2026-06-13,20:45,Saturday,Area-18,Burglary,None
+2026-06-13,20:15,Saturday,Area-27,Assault,Cricket Match
+2026-06-13,23:15,Saturday,Area-13,Burglary,None
+2026-06-13,14:45,Saturday,Area-06,Robbery,Festival
+2026-06-13,20:45,Saturday,Area-26,Assault,Market Day
+2026-06-13,23:45,Saturday,Area-12,Theft,Market Day
+2026-06-13,21:30,Saturday,Area-18,Theft,None
+2026-06-14,21:15,Sunday,Area-01,Chain Snatching,None
+2026-06-14,23:45,Sunday,Area-09,Robbery,Cricket Match
+2026-06-14,19:15,Sunday,Area-12,Vandalism,None
+2026-06-14,23:45,Sunday,Area-12,Robbery,Festival
+2026-06-14,22:30,Sunday,Area-16,Burglary,None
+2026-06-14,23:45,Sunday,Area-12,Chain Snatching,None
+2026-06-14,21:45,Sunday,Area-12,Chain Snatching,None
+2026-06-14,20:45,Sunday,Area-27,Burglary,Cricket Match
+2026-06-14,21:15,Sunday,Area-18,Vandalism,None
+2026-06-15,22:15,Monday,Area-27,Theft,None
+2026-06-15,21:45,Monday,Area-07,Burglary,None
+2026-06-15,23:15,Monday,Area-03,Burglary,None
+2026-06-15,23:30,Monday,Area-03,Assault,None
+2026-06-15,23:15,Monday,Area-22,Theft,None
+2026-06-15,08:00,Monday,Area-03,Burglary,Market Day
+2026-06-15,10:45,Monday,Area-18,Theft,None
+2026-06-15,19:45,Monday,Area-18,Theft,None
+2026-06-16,14:45,Tuesday,Area-12,Chain Snatching,Political Rally
+2026-06-16,23:30,Tuesday,Area-14,Vandalism,None
+2026-06-16,21:15,Tuesday,Area-18,Assault,None
+2026-06-16,22:00,Tuesday,Area-10,Vandalism,Cricket Match
+2026-06-16,18:00,Tuesday,Area-03,Burglary,None
+2026-06-16,19:00,Tuesday,Area-07,Vandalism,None
+2026-06-17,12:45,Wednesday,Area-03,Assault,Festival
+2026-06-17,22:15,Wednesday,Area-03,Theft,None
+2026-06-17,23:30,Wednesday,Area-03,Theft,Market Day
+2026-06-17,20:30,Wednesday,Area-12,Burglary,None
+2026-06-17,20:00,Wednesday,Area-03,Burglary,None
+2026-06-17,21:45,Wednesday,Area-03,Burglary,None
+2026-06-17,19:45,Wednesday,Area-07,Burglary,Festival
+2026-06-17,17:15,Wednesday,Area-15,Assault,None
+2026-06-17,19:00,Wednesday,Area-30,Theft,None
+2026-06-17,21:15,Wednesday,Area-07,Assault,Festival
+2026-06-17,20:45,Wednesday,Area-07,Theft,Market Day
+2026-06-18,23:30,Thursday,Area-27,Burglary,Political Rally
+2026-06-18,21:15,Thursday,Area-17,Assault,Market Day
+2026-06-18,20:00,Thursday,Area-18,Burglary,None
+2026-06-18,22:45,Thursday,Area-12,Assault,Festival
+2026-06-18,23:30,Thursday,Area-27,Burglary,None
+2026-06-18,22:15,Thursday,Area-07,Theft,None
+2026-06-18,19:00,Thursday,Area-27,Robbery,Market Day
+2026-06-18,20:45,Thursday,Area-07,Theft,Cricket Match
+2026-06-18,19:00,Thursday,Area-27,Burglary,None
+2026-06-19,20:30,Friday,Area-02,Robbery,Market Day
+2026-06-19,20:30,Friday,Area-05,Theft,Festival
+2026-06-19,09:00,Friday,Area-12,Burglary,Market Day
+2026-06-19,20:30,Friday,Area-07,Vandalism,None
+2026-06-19,19:45,Friday,Area-03,Burglary,Cricket Match
+2026-06-19,22:15,Friday,Area-18,Assault,None
+2026-06-20,21:30,Saturday,Area-03,Vandalism,None
+2026-06-20,23:00,Saturday,Area-18,Theft,Festival
+2026-06-20,21:15,Saturday,Area-07,Theft,None
+2026-06-20,22:00,Saturday,Area-18,Burglary,Cricket Match
+2026-06-20,22:30,Saturday,Area-03,Theft,None
+2026-06-21,12:00,Sunday,Area-07,Theft,Festival
+2026-06-21,20:15,Sunday,Area-12,Theft,None
+2026-06-21,19:45,Sunday,Area-03,Vandalism,Festival
+2026-06-21,20:45,Sunday,Area-27,Robbery,None
+2026-06-21,19:15,Sunday,Area-24,Assault,None
+2026-06-21,19:30,Sunday,Area-29,Theft,Market Day
+2026-06-21,20:00,Sunday,Area-03,Assault,Political Rally
+2026-06-21,20:15,Sunday,Area-27,Theft,Cricket Match
+2026-06-21,16:15,Sunday,Area-12,Theft,None
+2026-06-22,15:00,Monday,Area-10,Assault,Market Day
+2026-06-22,19:00,Monday,Area-18,Theft,Festival
+2026-06-22,21:15,Monday,Area-07,Chain Snatching,Festival
+2026-06-22,22:00,Monday,Area-22,Theft,Political Rally
+2026-06-22,23:30,Monday,Area-03,Vandalism,None
+2026-06-22,19:15,Monday,Area-07,Chain Snatching,None
+2026-06-22,22:00,Monday,Area-07,Theft,None
+2026-06-22,11:45,Monday,Area-18,Theft,None
+2026-06-22,17:45,Monday,Area-22,Assault,Cricket Match
+2026-06-23,16:15,Tuesday,Area-12,Burglary,None
+2026-06-23,19:15,Tuesday,Area-12,Robbery,Festival
+2026-06-23,19:45,Tuesday,Area-12,Burglary,None
+2026-06-23,18:30,Tuesday,Area-13,Theft,Festival
+2026-06-23,19:00,Tuesday,Area-18,Vandalism,None
+2026-06-23,21:00,Tuesday,Area-26,Burglary,Cricket Match
+2026-06-23,22:45,Tuesday,Area-07,Theft,None
+2026-06-23,23:00,Tuesday,Area-27,Burglary,None
+2026-06-23,18:45,Tuesday,Area-05,Vandalism,None
+2026-06-23,20:00,Tuesday,Area-07,Robbery,None
+2026-06-24,22:00,Wednesday,Area-07,Theft,None
+2026-06-24,23:45,Wednesday,Area-03,Robbery,Cricket Match
+2026-06-24,20:15,Wednesday,Area-18,Theft,None
+2026-06-24,22:00,Wednesday,Area-27,Burglary,Political Rally
+2026-06-24,23:45,Wednesday,Area-07,Theft,Cricket Match
+2026-06-25,21:45,Thursday,Area-07,Theft,None
+2026-06-25,23:45,Thursday,Area-07,Theft,None
+2026-06-25,20:30,Thursday,Area-27,Assault,Market Day
+2026-06-25,17:00,Thursday,Area-27,Robbery,None
+2026-06-25,20:15,Thursday,Area-30,Assault,None
+2026-06-25,12:00,Thursday,Area-07,Vandalism,Festival
+2026-06-26,23:15,Friday,Area-30,Theft,None
+2026-06-26,09:15,Friday,Area-27,Assault,Market Day
+2026-06-26,21:00,Friday,Area-23,Theft,Market Day
+2026-06-26,21:15,Friday,Area-11,Robbery,Festival
+2026-06-26,21:30,Friday,Area-27,Theft,None
+2026-06-26,20:30,Friday,Area-12,Vandalism,None
+2026-06-26,11:00,Friday,Area-17,Theft,Market Day
+2026-06-26,20:00,Friday,Area-26,Theft,None
+2026-06-27,21:00,Saturday,Area-03,Assault,None
+2026-06-27,09:15,Saturday,Area-20,Burglary,None
+2026-06-27,23:00,Saturday,Area-12,Vandalism,Market Day
+2026-06-27,23:45,Saturday,Area-07,Burglary,None
+2026-06-27,08:00,Saturday,Area-04,Burglary,Festival
+2026-06-27,15:30,Saturday,Area-26,Robbery,Market Day
+2026-06-28,19:00,Sunday,Area-18,Assault,Political Rally
+2026-06-28,23:15,Sunday,Area-03,Vandalism,None
+2026-06-28,19:30,Sunday,Area-12,Theft,Market Day
+2026-06-28,22:00,Sunday,Area-18,Burglary,Festival
+2026-06-28,21:15,Sunday,Area-22,Robbery,Political Rally
+2026-06-28,13:00,Sunday,Area-25,Vandalism,Festival
+2026-06-29,14:30,Monday,Area-18,Theft,None
+2026-06-29,21:15,Monday,Area-03,Burglary,Cricket Match
+2026-06-29,23:45,Monday,Area-27,Assault,Festival
+2026-06-29,20:30,Monday,Area-03,Chain Snatching,Market Day
+2026-06-29,19:00,Monday,Area-14,Theft,None
+2026-06-29,19:00,Monday,Area-18,Assault,Market Day
+2026-06-30,20:30,Tuesday,Area-27,Theft,None
+2026-06-30,22:00,Tuesday,Area-23,Burglary,None
+2026-06-30,23:45,Tuesday,Area-18,Burglary,None
+2026-06-30,19:45,Tuesday,Area-18,Theft,None
+2026-06-30,20:30,Tuesday,Area-27,Burglary,Political Rally
+2026-06-30,22:15,Tuesday,Area-27,Theft,Market Day
+2026-06-30,18:00,Tuesday,Area-12,Robbery,Cricket Match
+2026-06-30,21:45,Tuesday,Area-18,Burglary,None

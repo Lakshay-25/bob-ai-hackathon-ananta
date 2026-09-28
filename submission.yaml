@@ -1,0 +1,98 @@
+# =============================================================================
+# HACKATHON SUBMISSION METADATA
+# =============================================================================
+# Instructions:
+#   - Fill in ALL required fields (marked with # REQUIRED)
+#   - Optional fields can be left as empty strings ""
+#   - Do NOT rename this file — the evaluation pipeline reads it by name
+#   - Use double quotes around all string values
+# =============================================================================
+
+team:
+  name: "Ananta" # REQUIRED — e.g., "Orion Squad"
+  track: "AI & Predictive" # REQUIRED — one of: AI | DevOps | Sustainability | Open
+  lead:
+    name: "Lakshay Sunil Jatawat" # REQUIRED — e.g., "Alice Chen"
+    email: "lakshayjatawat25@gmail.com" # REQUIRED — e.g., "alice.chen@ibm.com"
+  members:
+    - name: "Kunj Buddhdev" # REQUIRED — Team member 1
+      email: ""
+    - name: "Deeksha" # Add more members by copying the two lines above
+      email: ""
+    - name: "Jiya Joshi"
+      email: "joshijiya119@gmail.com"
+
+submission:
+  title: "Drishti — Predictive Crime Hotspot Mapping Assistant"
+
+  problem_statement: >
+    Indian police stations like Delhi's ZIPNET system sit on years of geo-tagged crime data
+    but have zero predictive intelligence layer. Beat officers patrol static, fixed routes
+    regardless of emerging spatial-temporal crime patterns — meaning resources are deployed
+    uniformly even when specific micro-zones show escalating risk. District SHOs have no tool
+    to anticipate where crime may spike next week, how upcoming festivals or events could
+    shift risk concentrations, or how to optimally redeploy limited patrol units. Bengaluru's
+    2023 predictive policing pilot demonstrated that data-driven patrol redeployment can
+    reduce property crime by 18% — but no accessible, station-level tool exists for the
+    average Indian police station.
+
+  solution_summary: >
+    Drishti is an explainable AI-powered crime intelligence assistant built with IBM Bob
+    for district-level police stations. It ingests six months of aggregate, anonymized crime
+    data (synthetic for this MVP), performs spatial-temporal pattern analysis using near-repeat
+    theory and weighted recency scoring, identifies recurring Crime DNA signatures across
+    micro-zones, and predicts the top 5 at-risk areas for the coming week — each accompanied
+    by plain-language probability rationale and confidence intervals. The built-in What-If
+    event simulator lets officers model the impact of upcoming festivals, markets, or
+    gatherings on crime distribution. Finally, Drishti generates optimized patrol redeployment
+    recommendations with time-window suggestions and produces a downloadable one-page SHO
+    intelligence brief ready for operational use. The system is designed as decision support —
+    the SHO approves or overrides every recommendation.
+
+  key_features:
+    - "Spatial-temporal crime pattern detection with near-repeat analysis, recency-weighted scoring, and Crime DNA signature identification across 50 micro-zones"
+    - "Top-5 at-risk micro-zone prediction for the coming week with explainable probability rationale, confidence levels, and contributing-factor breakdown"
+    - "Event-driven What-If simulator allowing officers to model how festivals, markets, political rallies, and seasonal changes could shift crime risk across zones"
+    - "Automated patrol redeployment recommendations with optimal time-windows, beat coverage mapping, and resource allocation suggestions for limited patrol units"
+    - "Downloadable SHO intelligence brief — a one-page PDF report with ranked zones, evidence summaries, patrol schedules, and actionable next steps"
+
+  tech_stack:
+    languages: ["Python"]
+    frameworks: ["Streamlit", "Pandas", "Plotly", "NumPy"]
+    ibm_technologies: ["IBM Bob"]
+    databases: []
+    other: ["ReportLab", "Matplotlib"]
+
+  what_we_are_most_proud_of: >
+    The complete end-to-end intelligence pipeline — from raw CSV crime data ingestion to a
+    downloadable, actionable patrol brief — where every single prediction is accompanied by
+    plain-language explanations that a non-technical Station House Officer can immediately
+    understand and act on. Unlike black-box models, Drishti shows exactly why each zone was
+    flagged (historical baseline, recent trend, temporal pattern, event impact) as a waterfall
+    breakdown. The What-If event simulator is particularly powerful — it lets officers
+    proactively plan for upcoming festivals or gatherings rather than reacting after incidents
+    occur, turning predictive intelligence into preventive action.
+
+  known_limitations: >
+    The current MVP uses synthetic mock data (1000+ generated crime records) rather than real
+    police records from CCTNS or ZIPNET. The risk scoring model is a weighted heuristic
+    demonstration with recency decay and near-repeat bonuses rather than a fully calibrated
+    probabilistic forecast (LightGBM or deep ST-GNN). The map visualization uses a grid-based
+    area layout rather than real GIS/H3 hexagonal spatial indexing with MapLibre. Role-based
+    access control and multi-station deployment are not implemented in this hackathon MVP.
+    The patrol optimizer uses rule-based time-window allocation rather than a full CP-SAT
+    constraint solver. All results should be treated as illustrative decision support, not
+    validated crime forecasts.
+
+# =============================================================================
+# ARTIFACT LOCATIONS
+# These paths are relative to the repo root. Only change if you moved files.
+# =============================================================================
+artifacts:
+  source_code: "src/"
+  setup_guide: "docs/setup-guide.md"
+  architecture_doc: "docs/architecture.md"
+  demo_video: "demo/demo-video-link.txt" # URL to hosted video (YouTube, Loom, Box)
+  live_demo: "demo/live-demo-url.txt" # URL to deployed demo (optional)
+  screenshots: "demo/screenshots/"
+  presentation: "presentation/"
