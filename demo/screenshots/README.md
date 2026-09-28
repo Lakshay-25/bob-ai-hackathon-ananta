@@ -18,4 +18,4 @@ This directory contains screenshots of the fully functional Drishti Crime Intell
 **File:** `04-report-preview.png`
 *Showcases the modern, card-based embedded preview of the district's crime statistics and the Top 5 priority zone explanations.*
 
-> **Note:** To complete this section, please ensure the 4 image files you captured are physically copied into this `demo/screenshots/` folder matching the names above!
+
